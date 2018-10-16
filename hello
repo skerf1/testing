@@ -1,0 +1,15 @@
+i dont know what to call this but here we are!!
+just figuring out how this works while also procrastination on doing the first programming assignment.
+yikes
+
+//im gonna make a simple program to remind myself how to do absolutely anything
+
+import java.util.Scanner;
+
+class Dax {
+public static void main(String[] args){
+
+Scanner input= new Scanner (Syetem.in);
+System.out.println("What is your name??");
+String name= input.next();
+System.out.println("Nice to meet you, "+name+". My name is FateBot. Your future is in my hands now"); 
